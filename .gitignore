@@ -1,0 +1,7 @@
+.vscode/
+
+target/
+
+Day */
+Day *.mhtml
+Day *.html
